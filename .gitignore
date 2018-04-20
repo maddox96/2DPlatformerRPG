@@ -32,3 +32,16 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/SPA/Enemy/Bat/Go/Thumbs.db.meta
+*.meta
+*.png
+*.prefab
+*.controller
+*.anim
+*.gif
+*.db
+*.unity
+*.psd
+*.mat
+*.jpg
+*.txt
